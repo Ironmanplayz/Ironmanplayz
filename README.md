@@ -64,7 +64,7 @@ Compatibility development, dedicated server tooling, custom troop trees, cultura
 
 My personal portfolio showcases a selection of my programming, game development, and modding projects.
 
-[ccb-portfolio.com](https://ironmanplayz.github.io/ccb-portfolio/work.html)
+[Here's my portfolio](https://ironmanplayz.github.io/ccb-portfolio/work.html).
 
 ## Contact
 
