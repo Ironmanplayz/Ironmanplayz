@@ -4,7 +4,7 @@
 
 Software Development student and freelance programmer focused on game development, modding, web development, and software tooling.
 
-[Portfolio](https://www.ccb-portfolio.com)
+[Portfolio](https://ironmanplayz.github.io/ccb-portfolio/index.html)
 
 </div>
 
@@ -64,8 +64,8 @@ Compatibility development, dedicated server tooling, custom troop trees, cultura
 
 My personal portfolio showcases a selection of my programming, game development, and modding projects.
 
-[ccb-portfolio.com](https://www.ccb-portfolio.com)
+[ccb-portfolio.com](https://ironmanplayz.github.io/ccb-portfolio/work.html)
 
 ## Contact
 
-For project inquiries or other contact information, visit my [portfolio contact page](https://www.ccb-portfolio.com/contact.html).
+For project inquiries or other contact information, visit my [portfolio contact page](https://ironmanplayz.github.io/ccb-portfolio/contact.html).
